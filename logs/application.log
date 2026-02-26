@@ -1,0 +1,7 @@
+2026-02-26 08:03:14 [main] INFO  Log - Starting webDriver
+2026-02-26 08:03:16 [main] INFO  Log - Navigating to URL..
+2026-02-26 08:03:19 [main] INFO  Log - Starting login test..
+2026-02-26 08:03:19 [main] INFO  Log - Adding credentials
+2026-02-26 08:03:19 [main] INFO  Log - Clicking login button..
+2026-02-26 08:03:20 [main] INFO  Log - Verifying title
+2026-02-26 08:03:20 [main] INFO  Log - Closing Browser..
